@@ -1,9 +1,6 @@
-package Array;
+package Begginer.Array;
 
-import java.io.FileOutputStream;
-import java.sql.SQLOutput;
 import java.util.Scanner;
-import java.util.concurrent.LinkedTransferQueue;
 
 public class Challenge2 {
     static void main() {

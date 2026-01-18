@@ -1,4 +1,4 @@
-package Array;
+package Begginer.Array;
 
 public class ArrayGarbageCollector {
     static void main() {

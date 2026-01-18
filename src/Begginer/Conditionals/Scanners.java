@@ -1,4 +1,4 @@
-package Conditionals;
+package Begginer.Conditionals;
 
 import java.util.Scanner;
 

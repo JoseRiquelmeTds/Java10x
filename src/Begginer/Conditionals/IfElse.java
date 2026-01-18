@@ -1,4 +1,4 @@
-package Conditionals;
+package Begginer.Conditionals;
 
 public class IfElse {
     static void main()

@@ -1,4 +1,4 @@
-package DataTypes;
+package Begginer.DataTypes;
 
 public class Challenge1 {
     static void main() {

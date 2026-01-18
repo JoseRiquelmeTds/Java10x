@@ -1,6 +1,4 @@
-package DataTypes;
-
-import java.util.Locale;
+package Begginer.DataTypes;
 
 public class NotPrimitiveData {
     static void main() {
